@@ -21,7 +21,7 @@
     "react-native-gesture-handler": "~2.1.0",
     "react-native-safe-area-context": "3.3.2",
     "react-native-web": "0.17.1",
-    "web": "^0.0.2"
+    expo-cli: "^2.21.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
